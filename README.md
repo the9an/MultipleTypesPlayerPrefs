@@ -1,4 +1,13 @@
-MultipleTypesPlayerPrefs is a PlayerPrefs/EditorPrefs wrapper.
+Effortlessly manage PlayerPrefs and EditorPrefs with support for multiple data types!
+Advanced Save Manager provides an intuitive solution for saving and retrieving various data types to and from PlayerPrefs or EditorPrefs. Customize your saving experience by adding support for new data types seamlessly.
+
+Features include:
+
+Save and retrieve data across supported types with ease.
+Switch between PlayerPrefs and EditorPrefs for your storage needs.
+Enable EditorPrefs functionality by simply defining USE_EDITOR_PREFS in Scripting Define Symbols.
+Designed for simplicity and extensibility to meet your custom requirements.
+Make your data management smarter with Advanced Save Manager!
 
 
 **OVERVIEW**
@@ -17,8 +26,3 @@ Color
 long
 etc
 ```
-
-Using MultipleTypesPlayerPrefs to save and get a value of above types from PlayerPrefs or EditorPrefs.
-Also you can easily add type which you want to save/get from PlayerPrefs or EditorPrefs.
-By default, MultipleTypesPlayerPrefs will use PlayerPrefs to save/get value. 
-If you want to use EditorPrefs to save/get value then you have to locate USE_EDITOR_PREFS in "Scripting Define Symbols"
