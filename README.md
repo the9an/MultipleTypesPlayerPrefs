@@ -80,3 +80,7 @@ MultipleTypesPlayerPrefs.Save();
 ```
 
 This example demonstrates how to use BoolPrefs effectively with key operations like retrieving, setting, resetting, and deleting preferences.
+
+# Unity Asset Store
+
+https://assetstore.unity.com/packages/tools/utilities/advanced-save-manager-multi-type-support-for-playerprefs-editorp-169741
